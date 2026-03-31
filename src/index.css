@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Moul&family=Kantumruy+Pro:wght@400;700&display=swap');
+
+@theme {
+  --font-moul: "Moul", serif;
+  --font-kantumruy: "Kantumruy Pro", sans-serif;
+}
+
+.font-khmer-m1 {
+  font-family: "Moul", serif;
+  font-weight: normal; /* Moul is already bold by nature */
+}

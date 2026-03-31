@@ -1,0 +1,5 @@
+{
+  "name": "Invoice Generator",
+  "description": "A professional invoice generation tool designed for Cambodian institutions, featuring Khmer language support and dual currency (USD/KHR) calculations.",
+  "requestFramePermissions": []
+}
